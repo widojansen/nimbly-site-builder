@@ -1,5 +1,5 @@
 <script>
-  import { PrimoPage } from 'builderwj'
+  import { PrimoPage } from 'builder'
 
   export let data
 </script>
